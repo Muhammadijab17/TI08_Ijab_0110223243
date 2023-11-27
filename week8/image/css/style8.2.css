@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+}
+header{
+    background-color: yellow;
+    width: 700px;
+    height: 50px ;
+}
+footer{
+    background-color: yellow;
+    width: 700px;
+    height: 70px ;
+}
+article{
+    background-color: white;
+    width: 400px;
+    height: 150px;
+}
+aside{
+    background-color: salmon;
+    width: 65px;
+    height: 150px;
+}
+nav{
+    background-color: turquoise;
+    width:65px;
+    height:150px;
+}
